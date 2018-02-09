@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demo 01 - Connection Checker</string>
+
+    <string name="connection">Check Connection</string>
+    <string name="connection_type">Check Connection Type</string>
+    <string name="gps">Check Location Connection</string>
+</resources>
